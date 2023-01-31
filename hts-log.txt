@@ -1,0 +1,86 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Dec 2021 12:34:48 at http://okathemes.com/themes/blend/index2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://okathemes.com/themes/blend/index2.html -O1 "C:\My Web Sites\AssetManagement" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:40:35	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/jquery.bxslider.css (from okathemes.com/themes/blend/index2.html)
+12:46:55	Warning: 	Retry after error -4 (Incorrect length (238802 Bytes, 409713 expected)) at link okathemes.com/themes/blend/images/content/slider-bg1.jpg (from okathemes.com/themes/blend/index2.html)
+12:48:34	Warning: 	Retry after error -4 (Incorrect length (6584170 Bytes, 6708239 expected)) at link okathemes.com/themes/blend/video/video2.mp4 (from okathemes.com/themes/blend/index2.html)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/video/video.ogv (from okathemes.com/themes/blend/index2.html)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/fonts/glyphicons-halflings-regular.eot (from okathemes.com/themes/blend/css/bootstrap.css)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/fonts/glyphicons-halflings-regular.eot@ (from okathemes.com/themes/blend/css/bootstrap.css)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/fonts/glyphicons-halflings-regular.woff (from okathemes.com/themes/blend/css/bootstrap.css)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/fonts/glyphicons-halflings-regular.ttf (from okathemes.com/themes/blend/css/bootstrap.css)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/fonts/glyphicons-halflings-regular.svg (from okathemes.com/themes/blend/css/bootstrap.css)
+12:48:34	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/style/images/timer.png (from okathemes.com/themes/blend/css/style.css)
+12:48:34	Warning: 	Retry after error -4 (Incorrect length (304650 Bytes, 517760 expected)) at link okathemes.com/themes/blend/images/content/bg-home-3.jpg (from okathemes.com/themes/blend/css/style.css)
+12:48:34	Warning: 	Retry after error -4 (Incorrect length (201029 Bytes, 319229 expected)) at link okathemes.com/themes/blend/images/content/bg-res.jpg (from okathemes.com/themes/blend/css/style.css)
+12:48:34	Warning: 	Retry after error -4 (Incorrect length (205125 Bytes, 345852 expected)) at link okathemes.com/themes/blend/images/content/pr-slider-bg1.jpg (from okathemes.com/themes/blend/css/style.css)
+12:48:53	Warning: 	Retry after error -4 (Incorrect length (243012 Bytes, 484902 expected)) at link okathemes.com/themes/blend/images/content/img-blog.jpg (from okathemes.com/themes/blend/css/style.css)
+12:48:54	Warning: 	Retry after error -4 (Incorrect length (208803 Bytes, 307704 expected)) at link okathemes.com/themes/blend/images/content/bg-home.jpg (from okathemes.com/themes/blend/css/style.css)
+12:48:58	Warning: 	Retry after error -4 (Incorrect length (209530 Bytes, 299049 expected)) at link okathemes.com/themes/blend/images/content/parallax-landing.jpg (from okathemes.com/themes/blend/css/style.css)
+12:49:08	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/content/bg-landing.jpg (from okathemes.com/themes/blend/css/style.css)
+12:49:08	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/content/parallax3.jpg (from okathemes.com/themes/blend/css/style.css)
+12:49:08	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/content/parallax-testimonials.png (from okathemes.com/themes/blend/css/style.css)
+12:49:08	Warning: 	Retry after error -4 (Incorrect length (425160 Bytes, 633152 expected)) at link okathemes.com/themes/blend/images/content/parallax-res.jpg (from okathemes.com/themes/blend/css/style.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/gradient/g30.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/gradient/g40.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/shadow1.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/shadow2.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/shadow3.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/gridtile.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/gridtile_white.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/gridtile_3x3.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/gridtile_3x3_white.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/boxed_bgtile.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/navigdots_bgtile.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/bullet.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/bullets.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/bullets2.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/bullet_boxed.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/navigdots.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/large_left.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/large_right.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:10	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/small_left.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/small_right.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrow_left.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrow_right.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/small_left_boxed.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/small_right_boxed.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrowleft.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrowright.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrow_left2.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/arrow_right2.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/timer.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/coloredbg.png (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/assets/loader.gif (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/font/revicons.eot@5510888 (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/font/revicons.woff@5510888 (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/font/revicons.ttf@5510888 (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/font/revicons.svg@5510888 (from okathemes.com/themes/blend/css/settings.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/grabbing.png (from okathemes.com/themes/blend/css/owl.carousel.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/AjaxLoader.gif (from okathemes.com/themes/blend/css/owl.carousel.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/fancybox_sprite.png (from okathemes.com/themes/blend/css/jquery.fancybox.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/css/fancybox_loading.gif (from okathemes.com/themes/blend/css/jquery.fancybox.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/fancybox_sprite_402x.png (from okathemes.com/themes/blend/css/jquery.fancybox.css)
+12:49:11	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/images/fancybox_loading_402x.gif (from okathemes.com/themes/blend/css/jquery.fancybox.css)
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontawesome/fontawesome-webfont.eot@v=4.2.0
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontawesome/fontawesome-webfont.eot@
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontawesome/fontawesome-webfont.woff@v=4.2.0
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontawesome/fontawesome-webfont.ttf@v=4.2.0
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontello/fontello.eot@
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontello/fontello-circle.eot@49961091
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontello/fontello-circle.woff@49961091
+12:49:11	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/fontello/fontello-circle.ttf@49961091
+12:49:12	Warning: 	File not parsed, looks like binary: okathemes.com/themes/blend/css/fonts/picons/piconsthin.eot@
+12:49:12	Warning: 	Retry after error -4 (Incorrect length (350100 Bytes, 529198 expected)) at link okathemes.com/themes/blend/images/content/img-imac-hom.png (from okathemes.com/themes/blend/index1.html)
+12:49:12	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/blog-single-post.htm (from okathemes.com/themes/blend/index1.html)
+12:49:12	Warning: 	Retry after error -4 (Incorrect length (203648 Bytes, 370255 expected)) at link okathemes.com/themes/blend/images/content/mob_two-angle.png (from okathemes.com/themes/blend/index4.html)
+12:49:31	Warning: 	Retry after error -4 (Incorrect length (210635 Bytes, 477617 expected)) at link okathemes.com/themes/blend/images/content/img-landing-slide2.jpg (from okathemes.com/themes/blend/index4.html)
+12:49:40	Error: 	"Not Found" (404) at link okathemes.com/themes/blend/counters.html (from okathemes.com/themes/blend/accordion.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 1 seconds : 297 links scanned, 230 files written (24796728 bytes overall) [23051869 bytes received at 25584 bytes/sec], 2196877 bytes transferred using HTTP compression in 66 files, ratio 14%, 2.0 requests per connection
+(54 errors, 21 warnings, 0 messages)
